@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<h3 align="center">South African AI venture studio — shipping production systems, not prototypes.</h3>
+<h3 align="center">AI venture studio — shipping production systems, not prototypes.</h3>
 
 <p align="center">
   <a href="https://fsquared.ai">Website</a> •
