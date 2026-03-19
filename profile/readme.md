@@ -45,7 +45,7 @@ Every F² product follows these rules:
 ---
 
 <p align="center">
-  <strong>Based in South Africa. Deployed globally.</strong>
+  <strong>Deployed globally.</strong>
   <br>
   <a href="https://fsquared.ai">fsquared.ai</a>
 </p>
